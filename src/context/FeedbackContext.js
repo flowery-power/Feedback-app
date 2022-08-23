@@ -71,7 +71,7 @@ export const FeedbackProvider = ({ children }) => {
     );
   };
 
-  // set item to be uprade
+  // set item to be upgrade
   const editFeedback = (item) => {
     setFeedbackEdit({
       item,

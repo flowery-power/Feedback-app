@@ -27,12 +27,4 @@ export default function FeedbackList() {
       </AnimatePresence>
     </div>
   );
-
-  // return (
-  //   <div className="feedback-list">
-  //     {feedback.map((item) => (
-  //       <FeedbackItem key={item.id} item={item} handleDelete={handleDelete} />
-  //     ))}
-  //   </div>
-  // );
 }
