@@ -2,7 +2,7 @@
 
 * {
   box-sizing: border-box;
-  margin: 0;
+  margin: 4;
   padding: 0;
 }
 
@@ -127,8 +127,8 @@ input:focus {
 
 .num-display {
   position: absolute;
-  top: -10px;
-  left: -10px;
+  top: -15px;
+  left: -2px;
 }
 
 .close,

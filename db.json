@@ -25,9 +25,14 @@
       "id": 6
     },
     {
-      "text": "Yae babyyyy, it`s working!",
+      "text": "Yaeh babyyyy, it`s working!",
       "rating": 10,
       "id": 7
+    },
+    {
+      "text": "Testing the app!",
+      "rating": 8,
+      "id": 8
     }
   ],
   "posts": [
